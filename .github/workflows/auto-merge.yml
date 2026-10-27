@@ -1,0 +1,22 @@
+name: auto-merge
+on:
+  pull_request_target:
+    types: [opened, synchronize]
+permissions:
+  contents: write
+  pull-requests: write
+jobs:
+  merge:
+    if: github.actor != 'aixisstudio'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/github-script@v7
+        with:
+          script: |
+            const { owner, repo } = context.repo;
+            const n = context.issue.number;
+            const files = await github.rest.pulls.listFiles({owner, repo, pull_number: n});
+            const ok = files.data.every(f => f.filename === 'followers.md');
+            if (!ok) { await github.rest.issues.createComment({owner, repo, issue_number: n, body: "Only `followers.md` changes are auto-merged."}); return; }
+            await github.rest.pulls.merge({owner, repo, pull_number: n, merge_method: 'squash'});
+            await github.rest.issues.createComment({owner, repo, issue_number: n, body: "Merged automatically. Welcome aboard!"});
