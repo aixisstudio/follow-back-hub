@@ -1,0 +1,6 @@
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+  - jekyll-remote-theme
+title: Follow Back Hub
+description: Follow-for-follow hub — add your handle, follow everyone
+show_downloads: false
