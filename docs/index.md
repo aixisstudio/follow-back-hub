@@ -29,14 +29,21 @@ GitHub is more fun with an audience. This hub works in two steps:
 
 See [`followers.md`](followers.md) — and start following.
 
+## 🤖 Auto follow-back
 
-## ❓ Frequently Asked Questions
+When your PR adding your username merges, the Action automatically follows you from `@aixisstudio` — no manual step, no waiting. The merge *is* the follow trigger.
 
-**How do I get more GitHub followers?**
+## 📊 Live stats
 
-Join the follow-back community — add your handle to the list, follow the members, and they follow you back.
+| Metric | Where |
+|---|---|
+| Followers | [github.com/aixisstudio](https://github.com/aixisstudio) |
+| Chain length | `followers.md` (this repo) |
+| Your position | line number in the file |
 
+## 🧠 Why hubs work
+
+Follow-back lists concentrate a community that *wants* to be followed. Each new member sees ~everyone before them — so the earlier you join, the more follows you accumulate passively.
 
 ---
-
-Maintained by [aixisstudio](https://github.com/aixisstudio) — author of [Snitch](https://github.com/aixisstudio/Snitch), the open-source application firewall. See also: [all resources](https://aixisstudio.github.io).
+Maintained by [aixisstudio](https://github.com/aixisstudio).
