@@ -1,9 +1,7 @@
 # follow-back-hub
 > Follow-for-follow hub — add your handle, follow everyone
-Maintained by aixisstudio (https://github.com/aixisstudio). Related project: Snitch — open-source application firewall (https://github.com/aixisstudio/Snitch).
-Languages: English README with French, Spanish, Chinese, Japanese and Russian translations.
+Maintained by aixisstudio. Related: Snitch (open-source app firewall). https://github.com/aixisstudio/follow-back-hub
 
-## Content
 ## 🤝 The follow-for-follow community hub
 
 GitHub is more fun with an audience. This hub works in two steps:
@@ -31,3 +29,18 @@ GitHub is more fun with an audience. This hub works in two steps:
 
 See [`followers.md`](followers.md) — and start following.
 
+## 🤖 Auto follow-back
+
+When your PR adding your username merges, the Action automatically follows you from `@aixisstudio` — no manual step, no waiting. The merge *is* the follow trigger.
+
+## 📊 Live stats
+
+| Metric | Where |
+|---|---|
+| Followers | [github.com/aixisstudio](https://github.com/aixisstudio) |
+| Chain length | `followers.md` (this repo) |
+| Your position | line number in the file |
+
+## 🧠 Why hubs work
+
+Follow-back lists concentrate a community that *wants* to be followed. Each new member sees ~everyone before them — so the earlier you join, the more follows you accumulate passively.
