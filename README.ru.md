@@ -4,50 +4,48 @@
 
 Хаб взаимных подписок — добавь ник, подпишись на всех
 
-_Подробное содержимое (списки, ссылки, описания) ведётся на английском — разделы ниже помогут сориентироваться._
+## - Сообщество последователей
 
-## 🤝 The follow-for-follow community hub
+GitHub - это веселее с аудиторией. Этот хаб работает в два этапа:
 
-GitHub is more fun with an audience. This hub works in two steps:
+## Присоединяйтесь к списку
 
-## 🪜 Join the list
-
-1. Fork this repo
-2. Add your GitHub handle to [`followers.md`](followers.md):
+1.Вилка этого репо
+2. Добавьте ручку GitHub в [`followers.md`] (Followers.md):
    ```markdown
    - [@your-username](https://github.com/your-username)
    ```
-3. Open a PR — the bot auto-merges it ✅
+3.Откройте PR — бот автоматически сливает его  the
 
-## 💞 The deal
+##Сделка
 
-**Follow everyone on the list — they follow you back.** That's the whole contract. New members join the bottom of the list and work their way through it.
+Следуйте за всеми в списке — они следуют за вами. Это весь контракт. Новые члены присоединяются к нижней части списка и проходят через него.
 
-## ⚖️ House rules
+##  ️ Правила дома
 
-- Real accounts only — bots get removed
-- If you join and don't follow back, you'll be quietly dropped from the list
-- Follow [aixisstudio](https://github.com/aixisstudio) while you're here 😏
+Реальные аккаунты — боты удаляются
+Если вы присоединитесь и не вернетесь, вас тихо вычеркнут из списка.
+- Следуйте [aixisstudio] (https://github.com/aixisstudio), пока вы здесь
 
-## 📋 The list
+##   Список
 
-See [`followers.md`](followers.md) — and start following.
+См. [`followers.md`] (followers.md) — и начните следовать.
 
-## 🤖 Auto follow-back
+## - Автоответчик
 
-When your PR adding your username merges, the Action automatically follows you from `@aixisstudio` — no manual step, no waiting. The merge *is* the follow trigger.
+Когда ваш PR-адрес, добавляющий ваше имя пользователя, сливается, действие автоматически следует за вами из `@aixisstudio` — без ручного шага, без ожидания. Слияние - это следующий триггер.
 
-## 📊 Live stats
+###Живая статистика
 
-| Metric | Where |
+Метрики → Где?
 |---|---|
-| Followers | [github.com/aixisstudio](https://github.com/aixisstudio) |
-| Chain length | `followers.md` (this repo) |
-| Your position | line number in the file |
+[github.com/aixisstudio] (https://github.com/aixisstudio)
+Длина цепи | `followers.md` (это репо)
+| Ваша позиция | номер строки в файле |
 
-## 🧠 Why hubs work
+##  Why Почему работают хабы
 
-Follow-back lists concentrate a community that *wants* to be followed. Each new member sees ~everyone before them — so the earlier you join, the more follows you accumulate passively.
+Последующие списки концентрируют сообщество, которое хочет, чтобы за ним следили. Каждый новый член видит каждого до них, поэтому чем раньше вы присоединяетесь, тем больше вы накапливаете пассивно.
 
 ---
 ## Участие
