@@ -4,50 +4,48 @@
 
 Hub follow-for-follow — ajoute ton pseudo, suis tout le monde
 
-_Le contenu détaillé (listes, liens, descriptions) est en anglais pour rester maintenable — les sections ci-dessous te guident._
+Le centre communautaire de suivi
 
-## 🤝 The follow-for-follow community hub
+GitHub est plus amusant avec un public. Ce centre fonctionne en deux étapes:
 
-GitHub is more fun with an audience. This hub works in two steps:
+Joignez-vous à la liste
 
-## 🪜 Join the list
-
-1. Fork this repo
-2. Add your GitHub handle to [`followers.md`](followers.md):
+1. Fourche cette repo
+2. Ajoutez votre poignée GitHub à [`followers.md`](followers.md):
    ```markdown
    - [@your-username](https://github.com/your-username)
    ```
-3. Open a PR — the bot auto-merges it ✅
+3. Ouvrir un PR — le robot le fusionne automatiquement
 
-## 💞 The deal
+L'affaire
 
-**Follow everyone on the list — they follow you back.** That's the whole contract. New members join the bottom of the list and work their way through it.
+**Suivez tout le monde sur la liste — ils vous suivent.** C'est tout le contrat. De nouveaux membres se joignent au bas de la liste et y travaillent.
 
-## ⚖️ House rules
+Règles de la Chambre
 
-- Real accounts only — bots get removed
-- If you join and don't follow back, you'll be quietly dropped from the list
-- Follow [aixisstudio](https://github.com/aixisstudio) while you're here 😏
+- Comptes réels seulement — les robots sont enlevés
+- Si vous vous joignez et ne revenez pas, vous serez discrètement abandonné de la liste
+- Suivez [aixisstudio](https://github.com/aixisstudio) pendant que vous êtes ici
 
-## 📋 The list
+La liste
 
-See [`followers.md`](followers.md) — and start following.
+Voir [`followers.md`](followers.md) — et commencer à suivre.
 
-## 🤖 Auto follow-back
+Suivi automatique
 
-When your PR adding your username merges, the Action automatically follows you from `@aixisstudio` — no manual step, no waiting. The merge *is* the follow trigger.
+Lorsque votre PR ajoute votre nom d'utilisateur, l'Action vous suit automatiquement depuis `@aixisstudio` — pas d'étape manuelle, pas d'attente. La fusion * est le déclencheur suivant.
 
-## 📊 Live stats
+Statistiques vivantes
 
-| Metric | Where |
+Où
 |---|---|
-| Followers | [github.com/aixisstudio](https://github.com/aixisstudio) |
-| Chain length | `followers.md` (this repo) |
-| Your position | line number in the file |
+Abonnés : [github.com/aixisstudio](https://github.com/aixisstudio)
+Longueur de la chaîne
+Votre position Numéro de ligne dans le fichier
 
-## 🧠 Why hubs work
+Pourquoi les hubs fonctionnent
 
-Follow-back lists concentrate a community that *wants* to be followed. Each new member sees ~everyone before them — so the earlier you join, the more follows you accumulate passively.
+Les listes de suivi concentrent une communauté que *wants* doit suivre. Chaque nouveau membre voit ~tout le monde avant eux — donc plus tôt vous rejoignez, plus vous accumulez passivement.
 
 ---
 ## Contribuer
