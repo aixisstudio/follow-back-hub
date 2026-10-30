@@ -4,50 +4,48 @@
 
 フォローバックハブ — ユーザー名を追加して全員フォロー
 
-_詳細なコンテンツ（リスト・リンク・説明）は保守のため英語です。以下のセクションがガイドになります。_
+## コミュニティハブ
 
-## 🤝 The follow-for-follow community hub
+GitHubは、オーディエンスとより楽しくなります。 このハブは2つのステップで動作します。
 
-GitHub is more fun with an audience. This hub works in two steps:
+## 🪜 リストに参加する
 
-## 🪜 Join the list
-
-1. Fork this repo
-2. Add your GitHub handle to [`followers.md`](followers.md):
+1. フォークこのレポ
+2. GitHub ハンドルを [`followers.md`] (followers.md) に追加します。
    ```markdown
    - [@your-username](https://github.com/your-username)
    ```
-3. Open a PR — the bot auto-merges it ✅
+3. PRを開く — ボットが自動マージする ✅
 
-## 💞 The deal
+# # # # # # # # #
 
-**Follow everyone on the list — they follow you back.** That's the whole contract. New members join the bottom of the list and work their way through it.
+**リスト上の全員をフォローする。** 契約全体です。 新しいメンバーがリストの一番下に参加し、その途中で作業します。
 
-## ⚖️ House rules
+## ️️ハウスルール
 
-- Real accounts only — bots get removed
-- If you join and don't follow back, you'll be quietly dropped from the list
-- Follow [aixisstudio](https://github.com/aixisstudio) while you're here 😏
+- 実際のアカウントのみ — ボットが削除される
+- あなたが参加し、戻ってフォローしていない場合は、リストから静かにドロップされます
+- フォローしてください [aixisstudio](https://github.com/aixisstudio) あなたがここにいる間
 
-## 📋 The list
+##  list  list
 
-See [`followers.md`](followers.md) — and start following.
+[`followers.md`](followers.md) を参照してください。
 
-## 🤖 Auto follow-back
+## ✔自動フォローバック
 
-When your PR adding your username merges, the Action automatically follows you from `@aixisstudio` — no manual step, no waiting. The merge *is* the follow trigger.
+ユーザ名をマージする PR を追加すると、アクションは `@aixisstudio` から自動的にフォローされます。 手動ステップなし、待機しません。 merge *is* はフォロートリガーです。
 
-## 📊 Live stats
+## ライブ統計
 
-| Metric | Where |
+| メトリックの場所 | |
 |---|---|
-| Followers | [github.com/aixisstudio](https://github.com/aixisstudio) |
-| Chain length | `followers.md` (this repo) |
-| Your position | line number in the file |
+| フォロワー | 【github.com/aixisstudio】(https://github.com/aixisstudio) |
+| チェーン長 | `followers.md`(レポ) |
+| あなたの位置 | ファイル内の行番号 |
 
-## 🧠 Why hubs work
+##  Why なぜハブの作業
 
-Follow-back lists concentrate a community that *wants* to be followed. Each new member sees ~everyone before them — so the earlier you join, the more follows you accumulate passively.
+フォローバックリストは、*wants*が続くコミュニティに集中します。 新規会員は、その前に「みんな」を見ているので、参加する前の方が、受動的に蓄積した方がいます。
 
 ---
 ## 貢献
