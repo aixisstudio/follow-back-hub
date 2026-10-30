@@ -4,50 +4,48 @@
 
 互关中心 — 加上你的用户名，关注所有人
 
-_详细内容（列表、链接、描述）以英文维护 — 以下章节为你指引。_
+□□□□□□□□ 后继社区枢纽
 
-## 🤝 The follow-for-follow community hub
+GitHub在观众面前更有趣. 这个枢纽分两步工作:
 
-GitHub is more fun with an audience. This hub works in two steps:
+□ □ □ 加入名单
 
-## 🪜 Join the list
-
-1. Fork this repo
-2. Add your GitHub handle to [`followers.md`](followers.md):
+1. 叉子这种还本付息
+2. 将您的 GitHub 手柄添加到 [`followers.md`] (跟随器. md):
    ```markdown
    - [@your-username](https://github.com/your-username)
    ```
-3. Open a PR — the bot auto-merges it ✅
+3. 打开公关——机器人自动出现
 
-## 💞 The deal
+□ □ □ 交易
 
-**Follow everyone on the list — they follow you back.** That's the whole contract. New members join the bottom of the list and work their way through it.
+** 跟着名单上的每一个人——他们跟着你。 ** 这是整个合同。 新成员加入名单的底部并努力通过.
 
-## ⚖️ House rules
+□□□□□□家规.
 
-- Real accounts only — bots get removed
-- If you join and don't follow back, you'll be quietly dropped from the list
-- Follow [aixisstudio](https://github.com/aixisstudio) while you're here 😏
+- 真实账户 - 被删除
+- 如果你加入,不要追回来, 你会被悄悄地从名单上掉下来。
+- 跟着[axistudio] (https://github.com/aixisstudio) 当你在这里... ...
 
-## 📋 The list
+□□□□□□□□□□□□
 
-See [`followers.md`](followers.md) — and start following.
+见[`followers.md`](跟随者.md)——从后面开始.
 
-## 🤖 Auto follow-back
+# # # # # 自动后继
 
-When your PR adding your username merges, the Action automatically follows you from `@aixisstudio` — no manual step, no waiting. The merge *is* the follow trigger.
+当您的 PR 添加您的用户名合并时, 动作会自动跟随您从 `@aixisstudio` —— 没有手动步骤, 没有等待 。 合并 * 是后续触发 。
 
-## 📊 Live stats
+□□□□□□□□□□□□□□□□□□□□□□□□□□□
 
-| Metric | Where |
+{\fn黑体\fs22\bord1\shad0\3aHBE\4aH00\fscx67\fscy66\2cHFFFFFF\3cH808080}是哪一个?
 |---|---|
-| Followers | [github.com/aixisstudio](https://github.com/aixisstudio) |
-| Chain length | `followers.md` (this repo) |
-| Your position | line number in the file |
+[github.com/aixistudio] (https://github.com/aixisstudio) | | | |
+QQ 链长 `followers.md`( 此回波) QQ
+您在文件中的位置 。
 
-## 🧠 Why hubs work
+□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□
 
-Follow-back lists concentrate a community that *wants* to be followed. Each new member sees ~everyone before them — so the earlier you join, the more follows you accumulate passively.
+后继名单集中了一个"希望"被跟踪的社区. 每个新成员都看到~他们面前的每个人——所以你加入的越早,就越是被动地积累.
 
 ---
 ## 贡献
